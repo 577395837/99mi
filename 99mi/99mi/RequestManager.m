@@ -28,6 +28,11 @@
         completeBlock(NO,nil);
     }];
     [request startAsynchronous];
+    
+    
+    NSLog(@"234567");
+    
+    
 }
 
 @end
